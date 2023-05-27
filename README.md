@@ -1,4 +1,5 @@
 # -Linear-Regression-on-Medical-Price-Dataset
+Upload: This file (linearRegressionMedicalPriceD.ipynb) at GOOGLE COLAB & also download csv file (test.csv, train.csv)
 implementing the Linear Regression algorithm from scratch in Python using Numpy and Pandas and Matplotlib for visualization.
 The code provided is for performing linear regression on the Medical Price Dataset. It first loads the dataset and performs exploratory data analysis, including data description, information, and checking for missing values. 
 It then preprocesses the data by encoding categorical variables and creating new features.
